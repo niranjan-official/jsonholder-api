@@ -26,10 +26,6 @@ const frameworks = [
     label: "comments",
   },
   {
-    value: "photos",
-    label: "photos",
-  },
-  {
     value: "users",
     label: "users",
   },
